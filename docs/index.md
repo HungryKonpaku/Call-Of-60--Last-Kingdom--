@@ -36,4 +36,4 @@ Testa
 ---
 
 [リンクの文字](https://www.google.co.jp/)
-[リンクの文字](./test.html)
+[testページ](./test.html)
