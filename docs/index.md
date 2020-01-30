@@ -1,5 +1,4 @@
-# The largest heading
-Call Of 竜の物語 60　-Last Kingdom-  
+# Call Of 竜の物語 60　-Last Kingdom-  
 
 - 操作方法
   - クロスヘア・・・十字キーで操作
